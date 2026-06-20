@@ -1,0 +1,6 @@
+# Dependencias de desenvolvimento (tambem disponiveis via: pip install -e ".[dev]")
+pytest>=8
+ruff>=0.6
+
+# O assistente de rascunho via IA (opcional) usa apenas a biblioteca padrao;
+# configure o provedor por variaveis de ambiente: P5R_AI_API_URL / P5R_AI_API_KEY / P5R_AI_MODEL
