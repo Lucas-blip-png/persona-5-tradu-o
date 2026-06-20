@@ -1,0 +1,28 @@
+en,pt_br,categoria,nota
+Phantom Thieves,Ladroes Fantasmas,grupo,"nome do grupo; manter capitalizacao"
+Phantom Thieves of Hearts,Ladroes Fantasmas de Coracoes,grupo,
+Confidant,Confidente,sistema,"sistema de vinculos sociais"
+Persona,Persona,sistema,"manter (termo proprio da franquia)"
+Palace,Palacio,local,
+Mementos,Mementos,local,"manter (nome proprio)"
+Velvet Room,Sala de Veludo,local,
+Thieves' Den,Covil dos Ladroes,local,
+Treasure,Tesouro,objetivo,
+Shadow,Sombra,inimigo,
+Will Seed,Semente da Vontade,item,
+All-out Attack,Ataque Total,combate,
+Baton Pass,Passe de Bastao,combate,
+Showtime,Hora do Show,combate,
+Technical,Tecnico,combate,"dano tecnico"
+Hold Up,Cerco,combate,"inimigos encurralados"
+Down,Derrubado,combate,"status de inimigo no chao"
+Ambush,Emboscada,combate,
+SP,SP,status,"manter sigla"
+HP,HP,status,"manter sigla"
+calling card,cartao de visita,objetivo,
+change of heart,mudanca de coracao,enredo,
+awakening,despertar,enredo,"despertar da Persona"
+cognition,cognicao,enredo,
+cognitive world,mundo cognitivo,enredo,
+Metaverse,Metaverso,local,
+Navigator,Navegadora,papel,"funcao de suporte em combate"

@@ -1,0 +1,6 @@
+# Dependencias de desenvolvimento (tambem disponiveis via: pip install -e ".[dev]")
+pytest>=8
+ruff>=0.6
+
+# Opcional: assistente de rascunho via IA (pip install -e ".[assist]")
+# anthropic>=0.40

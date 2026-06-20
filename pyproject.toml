@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "p5r-ptbr"
+version = "0.1.0"
+description = "Toolkit de localizacao PT-BR para Persona 5 Royal (PC)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Comunidade P5R PT-BR" }]
+keywords = ["persona", "traducao", "localizacao", "pt-br", "modding"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+assist = ["anthropic>=0.40"]
+
+[project.scripts]
+p5r-ptbr = "p5r_ptbr.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "installer"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]

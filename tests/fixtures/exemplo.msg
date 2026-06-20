@@ -1,0 +1,6 @@
+[msg test_hello [Hero]]
+Hello there, traveler.[e]
+[msg test_warn [Guide]]
+Watch out for the [f 2 1]trap[f 2 2] ahead![n]Stay close to me.[e]
+[sel test_choice]
+Yes[n]No[e]

@@ -1,0 +1,22 @@
+{
+  "ModId": "p5r.ptbr",
+  "ModName": "Persona 5 Royal - Traducao PT-BR",
+  "ModAuthor": "Comunidade P5R PT-BR",
+  "ModVersion": "0.1.0",
+  "ModDescription": "Traducao em portugues brasileiro (projeto de fa, nao-oficial).",
+  "ModDll": "",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": ["Localization", "Portuguese", "Translation"],
+  "ModDependencies": [
+    "p5rpc.modloader",
+    "reloaded.universal.fileemulationframework"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": ["p5r.exe"],
+  "ProjectUrl": "",
+  "IsLibrary": false
+}
